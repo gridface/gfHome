@@ -1,2 +1,5 @@
 # gfHome
-public source code for www.gridfacesolutions.com
+
+public source code for the original single page site at www.gridfacesolutions.com. 
+
+Archived.
